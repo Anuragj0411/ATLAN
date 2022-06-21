@@ -1,0 +1,38 @@
+.tableFixHead {
+  overflow-y: auto;
+  height: 100px;
+}
+
+.tableFixHead thead th {
+  position: sticky;
+  top: 10;
+
+}
+
+table {
+
+  border-collapse: collapse;
+  width: 50%;
+  background-color: lightcoral;
+}
+
+
+th,
+td {
+  padding: 4px 8px;
+  border: 2px solid;
+}
+
+td:hover {
+  background-color: black;
+  color: white;
+}
+
+th {
+  background: #eee;
+}
+
+th:hover {
+  background-color: white;
+  color: black;
+}

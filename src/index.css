@@ -1,0 +1,10 @@
+html,
+body {
+    margin: 20;
+
+    background-color: rgb(157, 147, 177);
+}
+
+body {
+    display: flex;
+}
