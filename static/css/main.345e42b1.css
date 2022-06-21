@@ -1,0 +1,2 @@
+.tableFixHead{height:100px;overflow-y:auto}.tableFixHead thead th{position:-webkit-sticky;position:sticky;top:10}table{background-color:#f08080;border-collapse:collapse;width:50%}td,th{border:2px solid;padding:4px 8px}td:hover{background-color:#000;color:#fff}th{background:#eee}th:hover{background-color:#fff;color:#000}.main-wrapper{display:flex}.text-wrapper{display:flex;height:50px}.text-wrapper :hover{background-color:#fafad2;color:#000}body,html{background-color:#9d93b1;margin:20}body{display:flex}
+/*# sourceMappingURL=main.345e42b1.css.map*/
